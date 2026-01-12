@@ -24,6 +24,7 @@ footer {
     border-right: white;
     font-size: large;
     padding: 10px;
+    
 }
 
 h2 {
@@ -39,5 +40,5 @@ p {
     height: 200px;
     width: 350px;
     border: 2px solid black;
-    margin: 70px;
+    margin: 35px 70px;
 }
