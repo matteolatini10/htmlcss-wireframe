@@ -1,0 +1,17 @@
+/*css reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*generics*/
+body {
+    width: 512px;
+}
+
+header {
+    font-size: large;
+    padding: 10px;
+    border: 2px solid black;
+}
