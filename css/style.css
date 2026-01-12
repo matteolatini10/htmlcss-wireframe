@@ -17,6 +17,15 @@ header {
     margin-bottom: 10px;
 }
 
+footer {
+    border: 2px solid black;
+    border-bottom: white;
+    border-left: white;
+    border-right: white;
+    font-size: large;
+    padding: 10px;
+}
+
 h2 {
     padding: 15px;
 }
